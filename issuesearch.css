@@ -1,0 +1,12 @@
+tr:nth-child(1) {
+    font-weight: bold;
+}
+tr:nth-child(1)>* {
+    text-align: center !important;
+}
+td {
+    padding-right: 2ch;
+}
+td:nth-child(1) {
+    text-align: right;
+}
